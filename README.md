@@ -1,0 +1,2 @@
+# argotest
+To demo argoCD
